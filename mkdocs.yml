@@ -1,0 +1,14 @@
+site_name: SciEcon Blockchain + Symposium
+
+theme: 
+  name: material
+  logo: assets/sciecon-b.jpg
+  favicon: assets/sciecon-w.jpg
+  font:
+    # text: Playfair Display
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css

@@ -1,10 +1,16 @@
-<span style="font-weight:400;font-size:30px">
-    SciEcon Blockchain + Symposium
-</span>
+# <span style="color:black;font-weight:600;font-size:40px">SciEcon Blockchain + Symposium</span>
 
-# <span style="font-weight:400">Applications of Blockchain to Real-world Systems</span>
+
+<!-- # <span style="color:black;font-weight:600;font-size:40px">SciEcon Blockchain + Symposium</span> -->
+
+<!-- <span style="color:black;font-weight:600;font-size:40px">SciEcon Blockchain + Symposium</span> -->
+
+
+<span style="color:#330aff;font-weight:500;font-size:24px">Applications of Blockchain to Real-world Systems</span>
 
 <!-- ### SciEcon Blockchain + Mechanism Design Program -->
+
+---
 
 > SciEcon Lab Incubator Program
 
@@ -15,7 +21,7 @@
 ---
 
 <span style="font-weight:400;font-size:20px">
-    Watch SciEcon NFT Symposium on [SciEcon YouTube channel](https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA).
+    Watch SciEcon Blockchain + Symposium on [SciEcon YouTube channel](https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA).
 </span>
 
 <iframe width="1056" height="394" src="https://www.youtube.com/embed/QHi-SmRFbfE" title="SciEcon Blockchain+ Symposium: Connect Blockchain to Real World Applications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,13 +36,13 @@
 
 > ― Inaugural Program Chair Address by  Dr. Luyao Zhang 
 
-### Previous milestones
+### **Previous milestones**
 
 Web 3.0 symposium documentary on the Internet Computer: [SciEcon NFT Symposium Autumn 2021](https://sciecon-nft-symposium.on.fleek.co/)
 
 Exploratory research article samples published on Medium: 
-[Article1](https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9) 
-[Article2] (https://medium.com/sciecon-research/a-glance-into-the-metaverse-80004e9e1d1)
+[Article1](https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9), 
+[Article2](https://medium.com/sciecon-research/a-glance-into-the-metaverse-80004e9e1d1)
 
 #### Inaugural Program Committee
 
@@ -100,7 +106,7 @@ The symposium comprises online presentations and discussion for 6 articles. Each
 
 ---
 
-### A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems
+### [A Blockchain-based Decentralized Cloud Storage with “Keeper-and-Distributor” Systems](./articles/1_josh.md)
 
 **Author**: Josh Manto
 
@@ -174,7 +180,9 @@ The symposium comprises online presentations and discussion for 6 articles. Each
 
 ## **Bios**
 
-### Josh Manto [[LinkedIn](https://www.linkedin.com/in/josh-manto/)]
+### Josh Manto 
+
+[[LinkedIn](https://www.linkedin.com/in/josh-manto/)]
 
 ![josh](image/headshots/josh.jpg){: style="height:300px"}
 
@@ -182,7 +190,9 @@ The symposium comprises online presentations and discussion for 6 articles. Each
 
 Josh Manto is a sophomore student at DKU majoring in Data Science. He is the lab leader for SciEcon Research Lab. He has a solid foundation in Data Science, a wealth of experience in research, and has since managed two e-commerce startups to this day. His area of interest is in developing web3 and blockchain-based applications. 
 
-### Yutong Sun [[LinkedIn](https://www.linkedin.com/in/yutong-sun-/)]
+### Yutong Sun 
+
+[[LinkedIn](https://www.linkedin.com/in/yutong-sun-/)]
 
 ![yutong](image/headshots/yutong.png){: style="height:300px"}
 
@@ -190,7 +200,9 @@ Josh Manto is a sophomore student at DKU majoring in Data Science. He is the lab
 
 I am Sun Yutong, a junior student at Duke Kunshan University majoring in Applied Mathematics and Computational Science. I am so glad and excited to be a part of the SciEcon Lab! My research interest is in financial technology and financial mathematics. Previously, I have done some research on commercial leverage ratios using machine learning models, and Blockchain, as one of the hottest research topics in FinTech, is also one of my research directions. I am interested in doing research on this topic from a mathematical point of view, such as applying the mean-field game model to analyze the centralization phenomenon of mining on blockchain.
 
-### Tingyu Cai [[LinkedIn](https://www.linkedin.com/in/tingyu-cai-479a5b201/)]
+### Tingyu Cai 
+
+[[LinkedIn](https://www.linkedin.com/in/tingyu-cai-479a5b201/)]
 
 ![tingyu](image/headshots/tingyu.png){: style="height:300px"}
 
@@ -198,7 +210,9 @@ I am Sun Yutong, a junior student at Duke Kunshan University majoring in Applied
 
 Tingyu Cai is a sophomore majoring in Economics at Duke Kunshan University (dual degree with Duke University). He has a solid foundation in macroeconomic theories, and he is good at using Excel for data visualization and analysis. He is responsible, focused, and always passionate about learning new things. His research interests lie in areas including macroeconomic analysis, global trade, international affairs, industrial research, business strategic management, and marketing. He is currently working as a research team member under Professor Luyao Zhang’s Blockchain+ Research Program.
 
-### Yuming Gong (Lisa) [[LinkedIn](https://www.linkedin.com/in/%E8%B4%A1%E9%92%B0%E8%8C%97Lisa/)]
+### Yuming Gong (Lisa) 
+
+[[LinkedIn](https://www.linkedin.com/in/%E8%B4%A1%E9%92%B0%E8%8C%97Lisa/)]
 
 ![yuming](image/headshots/yuming.png){: style="height:300px"}
 
@@ -207,7 +221,9 @@ Tingyu Cai is a sophomore majoring in Economics at Duke Kunshan University (dual
 Yuming Gong is a sophomore student at Duke Kunshan University (DKU). She majors in Political Economy with the track of Economics. She works as DKU ECE marketing Assistant and also serves as the head of DKU Football Association Publicity Department. As she often deals with all kinds of social media, she is concerned about the threat to public information security brought by the new blockchain social media. She wants to further explore the changes blockchain brings to social media and work on addressing some of this industry's pain points.
 
 
-### Yuxi Jiang (Trudy) [[LinkedIn](https://www.linkedin.com/in/trudyjiang/)]
+### Yuxi Jiang (Trudy) 
+
+[[LinkedIn](https://www.linkedin.com/in/trudyjiang/)]
 
 ![yuxi](image/headshots/yuxi.png){: style="height:300px"}
 
@@ -215,9 +231,14 @@ Yuming Gong is a sophomore student at Duke Kunshan University (DKU). She majors 
 
 Yuxi is now a sophomore student majoring in Political Economy with the ECON track at Duke Kunshan University (DKU). She is passionate about interdisciplinary studies of economics, especially those related to Finance, Governance, Global Health, and Behavioral Science. She is now a newcomer in research and wants to do research in the above areas of interest.
 
-### Yu Cheng (Gloria) [[LinkedIn](https://www.linkedin.com/in/gloria-cheng-53515a236/)]
+### Yu Cheng (Gloria) 
 
-![yu](image/headshots/yu.png){: style="height:300px"}
+[[LinkedIn](https://www.linkedin.com/in/gloria-cheng-53515a236/)]
+
+<!-- ![yu](image/headshots/yu.png){: style="height:300px;border: 2px solid #330aff;"} -->
+![yu](image/headshots/yu.png){: style="height:300px;"}
+
+
 
 **DKU Sophomore majoring in Data Science | SciEcon Blockchain+ Lab Member**
 

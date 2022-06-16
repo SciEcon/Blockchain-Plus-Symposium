@@ -2,7 +2,7 @@ site_name: SciEcon Blockchain + Symposium
 
 theme: 
   name: material
-  logo: assets/sciecon-b.jpg
+  logo: assets/sciecon-b-l.jpg
   favicon: assets/sciecon-w.jpg
   font:
     # text: Playfair Display
@@ -23,5 +23,6 @@ extra_css:
 
 nav:
   - "Program Overview": index.md 
+  - "Symposium Slides": assets/SymposiumSlides.pdf
   - Articles:
-    - "Article One": articles/temp.md
+    - "A Blockchain-based Decentralized Cloud Storage with “Keeper-and-Distributor” Systems": articles/1_josh.md

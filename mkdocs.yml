@@ -6,9 +6,22 @@ theme:
   favicon: assets/sciecon-w.jpg
   font:
     # text: Playfair Display
+  features:
+    # - navigation.tabs
+    # - navigation.top
+    # - toc.integrate
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs.sticky
 
 markdown_extensions:
   - attr_list
 
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - "Program Overview": index.md 
+  - Articles:
+    - "Article One": articles/temp.md

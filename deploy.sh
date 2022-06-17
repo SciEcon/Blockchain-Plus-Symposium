@@ -8,6 +8,7 @@ rm -r stylesheets
 rm -r assets
 rm -r image
 rm -r search
+rm -r articles
 
 mkdocs build
 cp -r ./site/* ./

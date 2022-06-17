@@ -28,6 +28,12 @@
 
 ---
 
+<span style="font-weight:400;font-size:20px">
+    [Read](https://docsend.com/view/w6rv48mvgai4yzn5) SciEcon Blockchain + Symposium Slides on DocSend.
+</span>
+
+---
+
 ## **Introduction to SciEcon Symposium and SciEcon Lab Incubator Program**
 
 > At SciEcon, we host SciEcon Symposium in Light of Eastern and Western Philosophy, The Renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序).
